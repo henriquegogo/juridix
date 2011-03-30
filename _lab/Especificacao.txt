@@ -1,0 +1,191 @@
+[Clientes]
+- Cadastro: Nome, Nacionalidade, Profissão, Estado Civil, RG, CPF, Endereço, Fones, Fax, E-mail
+- Consulta
+
+[Processos e procedimentos]
+- Cadastro: Data de protocolo, número do protocolo, "sistema push" (programa do Tribunal que manda informações para o advogado), Observações sobre o andamento, especificação da ação/trabalho, observações específicas, valor
+- Consulta
+
+[Controle financeiro]
+- Valor contratado (por honorário)
+- Controle de pagamento (por cliente)
+- Data do contrato
+
+[Agenda]
+- Alerta de prazos a cumprir
+- Atividades para o dia e para a semana
+
+[Notícias]
+- De outros sites como jusbrasil
+- Atualidades de jurisprudência
+- Súmulas
+
+[Valor por mês]
+R$100,00 a 200,00
+
+==========================================================================
+
+[Funcionalidades extraídas dos concorrentes]
+- Processos ()
+- Pessoas (clientes, advogados, contrários, testemunhas, autor, réu, advogado e contrários)
+
+
+
+==========================================================================
+
+[Concorrência - Lawyer - Alkasoft]
+* Cadastro de processos e pré-processos
+* Cadastro de pessoas: clientes, advogados, contrários, testemunhas
+* Agenda de compromissos e prazos com calendário integrado
+* Cadastro de filiais, composição social, diretores e mandatos
+* Cadastro de funcionários (nome, telefone, ramal, email, departamento, etc.)
+* Controle financeiro: fluxo de caixa, contas a pagar e a receber
+* Correção de valores com mais de 40 indicadores econômicos atualizados diariamente
+* Gerenciamento de horas trabalhadas
+* Gerenciador eletrônico de documentos (GED)
+* Controle e compartilhamento de arquivos (word, planilhas, imagens, etc.)
+* Controle de processos apensos
+* Possibilidade de se cadastrar um processo que ainda está em fase amigável
+* Cadastro e controle de tarefas com campos para situação, prioridade, duração, percentual concluído, processo, cliente, solicitante e encarregado
+* Notificação de tarefas e compromissos por e-mail
+* Envio de relatórios sobre processos por e-mail
+* Listas de auxílio ao preenchimento de campos (ações, varas, cidades, etc.) 
+* Auxiliar para elaboração de documentos com recursos de editoração de texto estilo Word para processos e clientes
+* Cadastramento de jurisprudência
+* Gráficos estatísticos
+* Histórico detalhado dos processos
+* Controle de acesso aos cadastros (processos, clientes, agenda, financeiro, etc) por usuário
+* Possibilidade de definir lay-out e campos dos relatórios
+* Permite acesso via celular (Wap)
+
+[Concorrência - Themis Web]
+* Processos
+* Andamentos
+* Alocações de Hora (Timesheet)
+* Honorários
+* Despesas
+* Documentos
+* Auditoria
+* Depósitos
+
+[Concorrência - GR5]
+* Cadastro de Processos
+* Captura de Publicações
+* Agenda e Tarefas
+* Controle de Provisões
+* Gestão dos escritórios correspondentes
+* Indicadores
+* Consultivo
+* Contratos
+* Seguros: recursos específicos
+* Ressarcimento
+* Certidões, Societário, Procurações, Marcas e outros
+* Gerenciamento de Documentos
+* Gestão de conhecimento
+* Timesheet
+* Relatórios
+* Financeiro
+* Honorários
+
+[Concorrência - Projurid]
+* Inclusão/Alteração e Exclusão de Processos Ativos e suas informações.
+* Inclusão/Alteração e Exclusão de Andamentos Processuais.
+* Inclusão/Alteração e Exclusão de Partes e Litisconsortes.
+* Inclusão/Alteração e Exclusão de Desdobramentos.
+* Inclusão, Conversão e Levantamento de Depósitos.
+* Inclusão de múltiplos Objetos do Pedido e seus respectivos valores e Faixas de Probabilidades.
+
+[Concorrência - Datajuri]
+Controle de contencioso e pessoas
+* Cadastro de pessoa física, jurídica, advogado e órgãos judiciais.
+* Cadastro de processos, fases processuais, partes, garantias, depósitos, pedidos, objetos, apensos e andamentos.
+* Permissões de acesso ao sistema por módulos e perfil.
+* Casos e soluções, para controle de chamados e resolução de problemas do escritório.
+
+Atividades, emails e documentos (GED)
+* Cadastro de compromissos, tarefas, prazos e audiências.
+* Calendário de visualização diária, semanal e mensal.
+* Envio de email de notificações de atividades.
+* Aviso de compromissos através de lembretes por email e "popup" no sistema.
+* Controle de horas trabalhadas com cronômetro.
+* Cálculo de prazos conforme regras processuais e feriados.
+* Cadastro de documentos (GED) com palavras-chaves.
+* Controle de documentos por pastas.
+* Indexação de Documentos para pesquisa no conteúdo.
+* Envio de emails e histórico de emails enviados.
+* Criação de documentos através de modelos com configuração de layout com imagens, rodapé e cabeçalho.
+
+Relatórios e painéis
+* Relatórios pré-configurados e totalmente customizáveis.
+* Painéis gráficos integrado com os relatórios.
+* Exportação para os formatos html, pdf, xls (Excel) e doc (Microsoft Word).
+
+Consulta de andamentos na Internet
+* Consulta automática de andamentos no site do tribunal.
+* Criação de listas para consultas de vários processos.
+* Agendamento automático de consultas e notificações por email.
+* Preenchimento dos caracteres de verificação do site do tribunal no próprio sistema.
+* Confira a lista de tribunais disponíveis.
+
+Consulta no Diário Oficial
+* Consulta do Diário Oficial nos tribunais por palavras-chaves.
+* Notificação por email do resultado da consulta.
+* Confira a lista de tribunais e o status de processamento.
+
+Financeiro
+* Contas a pagar/receber.
+* Lançamentos em conta.
+* Previsão de fluxo de caixa.
+* Gerenciamento de contas.
+* Controle de plano de contas e centro de custo.
+* Geração de boletos para os principais bancos (Banco do Brasil, Caixa Econômica, Bradesco, Banco Real e Unibanco).
+
+Campos extras
+* Criação de campos personalizáveis.
+* Configuração da posição dos campos nos cadastros.
+* Seleção do tipo de campo (moeda, data, texto e outros)
+* Nível de permissão de acesso por campo.
+* Alteração dos rótulos dos principais campos do sistema.
+* Controle de auditoria de alteração do conteúdo dos campos com notificação por email.
+
+Contratos
+* Cadastro de contratos, participantes, garantias, objetos e aditivos.
+* Controle de vencimento de datas.
+
+Procuração
+* Cadastro de procurações e partes.
+* Controle de vencimento de datas.
+* Histórico de renovação.
+
+Módulo consultivo para clientes
+* Possibilidade de criação de usuários a partir das pessoas (clientes), possibilitando que estes acessem os seus dados no sistema.
+
+Acesso multi-empresa
+* Controle de acesso por filiais ou escritórios terceirizados onde cada usuário só visualiza os dados da sua filial.
+* Usuário pode participar de mais de uma empresa ou filial.
+
+Cálculos
+* Gerenciamento de cálculos com parcelas.
+* Atualização monetária pelos principais índices (IGP-M, IGP-DI, Poupança, etc).
+* Possibilidade de atualizar valores nos campos de processos, contratos e financeiro.
+
+[Concorrência - GEDAI]
+* Detalhado cadastro de agentes (pessoas envolvidas nos processos, tais como: autor, réu, advogado e contrários).
+* Controle de processos e apensos.
+* Controle de toda a movimentação financeira do advogado/escritório incluindo controle de despesas e recebimentos, pagamentos realizados e créditos a receber e custas processuais.
+* Rastreamento de todos os processos em que o agente esta envolvido.
+* Emissão de documentos padronizados, como cartas e convites.
+* Agenda de controle dos atendimentos feitos com os clientes.
+* Agenda de controle dos andamentos dos processos.
+* Cadastro de andamentos dos processos para acompanhamento detalhado do mesmo.
+* Cadastro de modelos de andamentos para agilidade no lançamento de andamentos comuns aos processos.
+* Possibilidade de replicar o mesmo andamento em vários processos.
+* Vinculação de processos entre si (correlatos).
+* Repositório de documentos, onde é possível anexar qualquer tipo de arquivo aos processos.
+* Avançado sistema de consultas, que possibilita a combinação de qualquer tipo de filtro criado pelo usuário.
+* Variados tipos de relatórios que podem ser emitidos.
+* Histórico para auditoria, registro detalhado de todas as atividades realizadas pelos usuários, possibilitando ao administrador o controle do uso indevido do programa.
+* Detalhado controle de permissões de usuários.
+* Manutenção de backup.
+* Manual do usuário.
+
