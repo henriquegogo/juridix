@@ -4,7 +4,7 @@ include('libraries/adodb5/adodb.inc.php');
 include('libraries/adodb5/adodb-active-record.inc.php');
 $DB = NewADOConnection("mysql://root:root@localhost/juridix");
 // if ($_SERVER['HTTP_HOST'] == 'localhost') { $DB = NewADOConnection("mysql://root:root@localhost/juridix");
-// } else { $DB = NewADOConnection("mysql://gogs:k4ju5oth@localhost/gogs_juridix"); }
+// } else { $DB = NewADOConnection("mysql://user:pass@localhost/gogs_juridix"); }
 $DB->SetFetchMode(ADODB_FETCH_ASSOC);
 ADOdb_Active_Record::SetDatabaseAdapter($DB);
 
